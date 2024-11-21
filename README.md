@@ -8,9 +8,6 @@ Brain-MRI-PD25-ImageMask-Dataset.zip</a>, which was derived by us from  <b>sub-P
 <a href="https://openneuro.org/datasets/ds002016/versions/1.0.0">
 <b>OpenNEURO BigBrainMRICoreg</b>
 </a>
-<br><br>
-On BreaDM.zip dataset, please see also:<a href="https://github.com/smallboy-code/Breast-cancer-dataset">Breast-cancer-dataset</a><br>
-
 <br>
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>

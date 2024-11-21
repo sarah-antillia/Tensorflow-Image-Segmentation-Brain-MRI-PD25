@@ -1,6 +1,6 @@
 <h2>Tensorflow-Image-Segmentation-Brain-MRI-PD25 (2024/11/21)</h2>
 
-This is the first experiment of Image Segmentation for Malignant Breast Cancer Cell
+This is the first experiment of Image Segmentation for Brain-MRI-PD25 
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
  <a href="https://drive.google.com/file/d/1CqmTRRnLa6IZ9x0LTqHGLNEsytQg7Vjh/view?usp=sharing">

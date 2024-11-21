@@ -4,8 +4,7 @@ This is the first experiment of Image Segmentation for Brain-MRI-PD25
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
  <a href="https://drive.google.com/file/d/1CqmTRRnLa6IZ9x0LTqHGLNEsytQg7Vjh/view?usp=sharing">
-Brain-MRI-PD25-ImageMask-Dataset.zip</a>, which was derived by us from  
-which was derived by us from <b>sub-PD25</b> of  
+Brain-MRI-PD25-ImageMask-Dataset.zip</a>, which was derived by us from  <b>sub-PD25</b> of  
 <a href="https://openneuro.org/datasets/ds002016/versions/1.0.0">
 <b>OpenNEURO BigBrainMRICoreg</b>
 </a>
